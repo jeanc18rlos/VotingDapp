@@ -39,5 +39,5 @@ Then go to ganache, select an account, copy their private key and go to localhos
 ### Test
 In order to test, you can use mocha and chai wich it comes with truffle, using
 ```sh
-$ truffle tes
+$ truffle test
 ```
